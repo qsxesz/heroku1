@@ -1,1 +1,1 @@
-web: heroku-php-index web/
+web: node sgr.js
