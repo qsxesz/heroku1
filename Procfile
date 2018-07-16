@@ -1,1 +1,1 @@
-web: gunicorn sgr:app
+web: index.php
