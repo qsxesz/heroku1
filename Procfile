@@ -1,1 +1,1 @@
-web: node sgr.html
+web: gunicorn sgr:app
